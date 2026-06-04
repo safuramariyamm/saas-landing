@@ -29,26 +29,4 @@ coverage
 *.crt
 *.pfx
 *.cer
-Dockerfile
-README.md
-LICENSE
-*.md
-*.markdown
-*.yml
-*.yaml
-*.json
-*.xml
-*.csv
-*.ts
-*.tsx
-*.js
-*.jsx
-docker-compose.yml
-eslint.config.mjs   
-        next.config.ts
-        nginx/
-        package-lock.json
-        package.json
-        postcss.config.mjs
-        public/
-        tsconfig.json
+
